@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sudishyermal-cloud/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/sudishyermal-cloud/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -47,4 +48,8 @@
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/sudishyermal-cloud/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
