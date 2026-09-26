@@ -19,6 +19,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudishyermal-cloud/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sudishyermal-cloud/DSA/tree/main/1470-shuffle-the-array/) | Easy |
@@ -37,11 +38,13 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
