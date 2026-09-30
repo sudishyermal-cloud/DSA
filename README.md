@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sudishyermal-cloud/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/sudishyermal-cloud/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudishyermal-cloud/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/sudishyermal-cloud/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sudishyermal-cloud/DSA/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -61,4 +63,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/sudishyermal-cloud/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
