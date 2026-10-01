@@ -15,6 +15,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sudishyermal-cloud/DSA/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
