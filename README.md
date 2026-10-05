@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/sudishyermal-cloud/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/sudishyermal-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sudishyermal-cloud/DSA/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
@@ -50,12 +51,14 @@
 | [0001-two-sum](https://github.com/sudishyermal-cloud/DSA/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/sudishyermal-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/sudishyermal-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
