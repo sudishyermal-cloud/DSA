@@ -19,6 +19,7 @@
 | [0242-valid-anagram](https://github.com/sudishyermal-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/sudishyermal-cloud/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sudishyermal-cloud/DSA/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sudishyermal-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sudishyermal-cloud/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
@@ -66,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/sudishyermal-cloud/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sudishyermal-cloud/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Bit Manipulation
@@ -94,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
