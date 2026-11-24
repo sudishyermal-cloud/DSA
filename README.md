@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sudishyermal-cloud/DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudishyermal-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/sudishyermal-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sudishyermal-cloud/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudishyermal-cloud/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudishyermal-cloud/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/sudishyermal-cloud/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/sudishyermal-cloud/DSA/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/sudishyermal-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sudishyermal-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
